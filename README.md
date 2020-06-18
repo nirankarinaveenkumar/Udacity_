@@ -1,4 +1,4 @@
-# How to predict if a person has a Heart Disease or not
+# How to predict if a person has a Heart Disease or not using Machine Learning
 
 Heart Diseases can be predicted using different factors such as age, height, weight, gender, systolic blood pressure, diastolic blood pressure,
 cholesterol, glucose, smoking, alcohol intake, physical activity. The link to the dataset can be found here.
